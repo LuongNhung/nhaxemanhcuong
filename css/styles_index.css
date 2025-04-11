@@ -354,9 +354,11 @@ ul li{
 
 }
 @media screen and (max-width: 600px) {
-	
+	#fixedbutton{
+		position:fixed;
+	}
 	.text-booking-button{
-		width:180px;
+		width:360px;
 	}
 
 	.hero{
