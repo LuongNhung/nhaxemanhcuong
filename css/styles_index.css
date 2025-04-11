@@ -354,7 +354,7 @@ ul li{
 
 }
 @media screen and (max-width: 600px) {
-	#fixedbutton.booking-button{
+	.booking-button-fixed{
 		position:fixed;
 	}
 	.text-booking-button{
