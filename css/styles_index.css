@@ -423,5 +423,8 @@ ul li{
 	ul li {
 		margin-bottom: 30px;
 	}
+	#fixedbutton{
+		position:fixed;
+	}
 
 }
