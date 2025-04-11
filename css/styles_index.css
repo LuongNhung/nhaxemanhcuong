@@ -45,7 +45,8 @@ ul li{
 .text-booking-button{
 	text-transform: uppercase;
 	width:250px;
-	background-color: #3f5ca7;
+	/*background-color: #3f5ca7;*/
+	background-color: #ff0000;
 	border-color: #243665;
 }
 
