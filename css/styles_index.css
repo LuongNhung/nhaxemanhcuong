@@ -16,8 +16,6 @@ body {
   /*background: linear-gradient(to left top, #031A9A, #8B53FF);*/
 }
 
-
-
 a:focus, a:hover {
   text-decoration: none; 
   color:black;
@@ -424,5 +422,8 @@ ul li{
 
 	ul li {
 		margin-bottom: 30px;
+	}
+	btn-fixed{
+		position: fixed;
 	}
 }
