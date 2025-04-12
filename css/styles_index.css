@@ -364,8 +364,8 @@ ul li{
 	.booking-button-fixed{
 		display: block;
         position: fixed;
-        bottom: 0px;
-        right: 20px;
+        bottom: 25px;
+        right: 35px;
         padding: 12px 20px;
         background-color: #007BFF;
         color: white;
@@ -376,7 +376,7 @@ ul li{
         cursor: pointer;
 	}
 	.text-booking-button{
-		width:360px;
+		width:300px;
 	}
 
 	.hero{
@@ -384,7 +384,7 @@ ul li{
 	}
 
 	.hero-title-large{
-		font-size: 30px;
+		font-size: 25px;
 	}
 
 	.hero-phone{
